@@ -2,3 +2,19 @@ html {
   height: 100%;
   width: 100%;
 }
+
+#main {
+  width: 600px;
+  margin: auto;
+  overflow: hidden;
+}
+
+#digital_display {
+  padding: 20px 0;
+  margin: 10px 0;
+  text-align: center;
+}
+
+#digital_clock{
+  font-size: 5rem;
+}
